@@ -1,0 +1,5 @@
+# runtime output
+*.log
+notices.db
+scraper_status.json
+__pycache__/
